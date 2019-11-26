@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinConsoleProject\bin\Debug\PigLatinConsoleProject.exe.config
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinConsoleProject\bin\Debug\PigLatinConsoleProject.exe
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinConsoleProject\bin\Debug\PigLatinConsoleProject.pdb
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinConsoleProject\obj\Debug\PigLatinConsoleProject.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinConsoleProject\obj\Debug\PigLatinConsoleProject.exe
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinConsoleProject\obj\Debug\PigLatinConsoleProject.pdb

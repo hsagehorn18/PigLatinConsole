@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinUnitTests\bin\Debug\PigLatinUnitTests.dll
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinUnitTests\bin\Debug\PigLatinUnitTests.pdb
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinUnitTests\bin\Debug\PigLatinConsoleProject.exe
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinUnitTests\bin\Debug\PigLatinConsoleProject.pdb
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinUnitTests\obj\Debug\PigLatinUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinUnitTests\obj\Debug\PigLatinUnitTests.dll
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinConsoleProject\PigLatinUnitTests\obj\Debug\PigLatinUnitTests.pdb
